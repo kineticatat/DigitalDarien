@@ -1,0 +1,262 @@
+/* screen - main-page */
+
+.main-page {
+  background-color: var(--heavy-metal);
+  height: 2628px;
+  position: relative;
+  width: 1920px;
+}
+.main-page .about-GL0FrS {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.main-page .component-1-1-C61RwL {
+  background-color: transparent;
+  height: 49px;
+  left: 1248px;
+  position: absolute;
+  top: 167px;
+  width: 120px;
+}
+.main-page .component-2-1-C61RwL {
+  background-color: transparent;
+  height: 49px;
+  left: 1534px;
+  position: absolute;
+  top: 167px;
+  width: 248px;
+}
+.main-page .group-1-C61RwL {
+  background-color: var(--gray-nurse);
+  border: 1px solid var(--dove-gray);
+  height: 212px;
+  left: 616px;
+  position: absolute;
+  top: 728px;
+  width: 687px;
+}
+.main-page .latest-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 96px;
+  position: absolute;
+  text-align: left;
+  top: 1412px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page .learn-more-VyzZeT {
+  background-color: transparent;
+  bottom: calc(25.95% - 35px);
+  color: var(--heavy-metal);
+  font-family: 'Source Serif Pro', Helvetica, Arial, serif;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+  height: 133px;
+  left: 41px;
+  letter-spacing: 0.00px;
+  line-height: 96px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 81px);
+}
+.main-page .lorem-ipsu-o-duo-agna-2P4qUJ {
+  background-color: transparent;
+  height: 563px;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1976px;
+  width: 475px;
+}
+.main-page .lorem-ipsu-o-duo-agna-C61RwL {
+  background-color: transparent;
+  height: 563px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1976px;
+  width: 475px;
+}
+.main-page .lorem-ipsu-o-duo-agna-QxM5SU {
+  background-color: transparent;
+  height: 563px;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1976px;
+  width: 475px;
+}
+.main-page .lorem-ipsu-o-duo-agna-VMr6Om {
+  background-color: transparent;
+  height: 563px;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1976px;
+  width: 475px;
+}
+.main-page .lorem-ipsu-o-duo-agna-mzXdH9 {
+  background-color: transparent;
+  height: 563px;
+  left: 1300px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 1976px;
+  width: 475px;
+}
+.main-page .main-image-04-C61RwL {
+  background-color: transparent;
+  height: 1053px;
+  left: 0px;
+  position: absolute;
+  top: 307px;
+  width: 1920px;
+}
+.main-page .researchers-wxTtlJ {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 6px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.main-page .revised-da-ien-gap-04-C61RwL {
+  background-color: transparent;
+  height: 513px;
+  left: 619px;
+  position: absolute;
+  top: 1500px;
+  width: 625px;
+}
+.main-page .revised-da-ien-gap-05-C61RwL {
+  background-color: transparent;
+  height: 399px;
+  left: 1277px;
+  position: absolute;
+  top: 1557px;
+  width: 454px;
+}
+.main-page .screen-sho-t-42252-pm-C61RwL {
+  background-color: transparent;
+  height: 274px;
+  left: 128px;
+  position: absolute;
+  top: 1644px;
+  width: 454px;
+}
+.main-page .the-darien-gap-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 140px;
+  letter-spacing: 0.00px;
+  line-height: 96px;
+  position: absolute;
+  text-align: left;
+  top: 102px;
+  white-space: nowrap;
+  width: auto;
+}
+.main-page .tree-overlay-01-C61RwL {
+  background-color: transparent;
+  height: 2709px;
+  left: -2px;
+  position: absolute;
+  top: -40px;
+  width: 1920px;
+}
+.main-page .tree-overlay-01-LPwxU7 {
+  background-color: transparent;
+  height: calc(100.00% - 81px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.main-page .tree-overlay-01-MQ0YjE {
+  background-color: transparent;
+  height: calc(100.00% - 81px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.main-page .tree-overlay-01-VMr6Om {
+  background-color: transparent;
+  height: 2709px;
+  left: -2px;
+  position: absolute;
+  top: -40px;
+  width: 1920px;
+}
+.sourceserifpro-normal-gray-nurse-35px {
+  color: var(--gray-nurse);
+  font-family: 'Source Serif Pro', Helvetica, Arial, serif;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 400;
+}
+.sourceserifpro-normal-gray-nurse-36px {
+  color: var(--gray-nurse);
+  font-family: 'Source Serif Pro', Helvetica, Arial, serif;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+}
+.sourceserifpro-normal-gray-nurse-48px {
+  color: var(--gray-nurse);
+  font-family: 'Source Serif Pro', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+}
+.sourceserifpro-normal-gray-nurse-63px {
+  color: var(--gray-nurse);
+  font-family: 'Source Serif Pro', Helvetica, Arial, serif;
+  font-size: 63px;
+  font-style: normal;
+  font-weight: 400;
+}
+.sourceserifpro-normal-gray-nurse-96px {
+  color: var(--gray-nurse);
+  font-family: 'Source Serif Pro', Helvetica, Arial, serif;
+  font-size: 96px;
+  font-style: normal;
+  font-weight: 400;
+}
+:root {
+  --dove-gray: rgba(112,112,112,1.0);
+  --gray-nurse: rgba(234,234,229,1.0);
+  --heavy-metal: rgba(43,43,43,1.0);
+}
