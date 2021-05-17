@@ -1,0 +1,166 @@
+
+body {
+  background-color: #d0cdc9;
+}
+
+.font-continuo {
+  font-family: continuo, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.font-futura {
+  font-family: futura-pt, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+
+.heading-background-opaque {
+  background-color: rgba(159, 64, 64, 61%);
+}
+
+.heading-background {
+  background-color: rgb(159, 64, 64);
+}
+
+.margin-top-10 {
+  margin-top: 10em;
+}
+
+.margin-right-3 {
+  margin-right: 3em;
+}
+
+.padding-top-10 {
+  padding-top: 10em;
+}
+
+.padding-left-10 {
+  padding-left: 10em;
+}
+
+.object-fit--cover {
+  object-fit: cover;
+}
+
+.object-fit--contain {
+  object-fit: contain;
+}
+
+.bg-tan {
+  background-color: #d0cdc9;
+}
+
+.bg-white {
+  background-color: white;
+}
+
+.hidden-heading {
+  display: none;
+}
+
+.hidden-brand {
+  display: none;
+}
+
+.width-84 {
+  width: 84%;
+}
+
+.text-decoration--none {
+  text-decoration: none;
+}
+
+.nav-link--active {
+  background-color: #779693;
+}
+
+.border-radius-sm {
+  border-radius: .25rem;
+}
+
+.sub-nav-link {
+  color: #4F6461;
+}
+
+.sub-nav-link:hover {
+  color: #779693;
+}
+
+.font-size-sm {
+  font-size: 1rem;
+}
+
+.photo-bg {
+  background-color: #779693;
+}
+
+@keyframes fade-in {
+  from {opacity: 0%;}
+  to {opacity: 100%;}
+}
+
+.fade-in {
+  animation-name: fade-in;
+  animation-duration: 3s;
+}
+
+/* Media Queries */
+
+@media only screen and (max-width: 1200px) {
+  .margin-right-3 {
+    margin-right: 0em;
+  }
+
+  .hidden-col--1270 {
+    display: none;
+  }
+
+  .margin-left-1 {
+    margin-left: 1em;
+  }
+
+  .font-size-sm {
+    font-size: 0.8rem;
+  }
+
+  .border-at-md {
+    border: 5px solid white;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .hidden-image {
+    display: none;
+  }
+  .hidden-col {
+    display: none;
+  }
+
+  .hidden-heading {
+    display: block;
+  }
+
+  .margin-left-1 {
+    margin-left: 0em;
+  }
+
+  .font-size-sm {
+    font-size: 1rem;
+  }
+
+  .border-at-md {
+    border: none;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+
+  .hidden-brand {
+    display: block;
+  }
+
+  .font-size-sm {
+    font-size: 0.8rem;
+  }
+}
